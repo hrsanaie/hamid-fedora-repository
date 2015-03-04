@@ -11,6 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         it's me :)
+        first project uploaded on github from fedora by netbeans IDE
+        it's so funny 3>
         <?php
         // put your code here
         ?>
